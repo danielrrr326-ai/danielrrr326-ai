@@ -1,13 +1,12 @@
-Hi 👋, I am Daniel Felipe Rodriguez Angulo 
+Hi 👋 I'm Daniel Felipe Rodriguez Angulo
 
-Backend-oriented developer | Java | SQL | System Design
+Backend-Oriented Developer | Java | SQL | System Design
 
-🎓 Systems Engineering Student  
-💻 Backend Developer in training  
-📚 Specialized in Java, SQL, and structured systems design
+🎓 Systems Engineering Student
+💻 Backend Developer in Training
 
-I enjoy creating software solutions with a robust, maintainable architecture and a logical structure.
-
+I focus on building structured, maintainable, and scalable software systems.
+I value internal quality, clean architecture, and logical design over quick fixes.
 
  💡 Areas of Interest
 
@@ -26,6 +25,8 @@ Languages
 - Java
 - C++
 - SQL (MySQL) (currentry learning)
+
+  Markup & Web
 - HTML (currently learning)
 
  Technical Skills
