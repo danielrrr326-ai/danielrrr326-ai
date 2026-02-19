@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi 👋, I am Daniel Felipe Rodriguez Angulo 
 
-<!--
-**danielrrr326-ai/danielrrr326-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Engineering Student  
+💻 Backend Developer in training  
+📚 Specialized in Java, SQL, and structured systems design
 
-Here are some ideas to get you started:
+I enjoy creating software solutions with a robust, maintainable architecture and a logical structure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 💡 Areas of Interest
+
+I am particularly interested in:
+
+- Backend development with Java
+- Database design and data modeling
+- Software architecture
+- Building scalable and maintainable systems
+
+---
+
+🛠 Technologies
+
+Languages
+- Java
+- C++
+- SQL (MySQL) (currentry learning)
+- HTML (currently learning)
+
+ Technical Skills
+- Object-Oriented Programming (OOP)
+- Basic Data Structures
+- Entity-Relationship Modeling
+- UML Diagrams
+- Technical Documentation
+- Algorithmic Problem Solving
+
+---
+
+ 📈 Currently Improving
+
+- Backend development with Java
+- Relational database design and optimization
+- Software design best practices
+- Version control using Git
