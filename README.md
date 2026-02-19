@@ -44,3 +44,10 @@ Languages
 - Relational database design and optimization
 - Software design best practices
 - Version control using Git
+
+---
+Clean code. Solid logic. Continuous improvement.
+
+“La calidad del software no es negociable.”
+Martin Fowler
+
