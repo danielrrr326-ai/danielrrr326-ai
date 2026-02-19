@@ -26,10 +26,10 @@ Languages
 - C++
 - SQL (MySQL) (currentry learning)
 
-  Markup & Web
+Markup & Web
 - HTML (currently learning)
 
- Technical Skills
+Technical Skills
 - Object-Oriented Programming (OOP)
 - Basic Data Structures
 - Entity-Relationship Modeling
@@ -39,7 +39,7 @@ Languages
 
 ---
 
- 📈 Currently Improving
+ Currently Improving
 
 - Backend development with Java
 - Relational database design and optimization
