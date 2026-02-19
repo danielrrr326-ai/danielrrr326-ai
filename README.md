@@ -8,6 +8,8 @@ Backend-Oriented Developer | Java | SQL | System Design
 I focus on building structured, maintainable, and scalable software systems.
 I value internal quality, clean architecture, and logical design over quick fixes.
 
+😄😄 I aim to grow into a software architect capable of designing resilient and scalable backend systems.
+
  💡 Areas of Interest
 
 I am particularly interested in:
