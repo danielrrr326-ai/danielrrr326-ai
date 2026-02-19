@@ -48,6 +48,7 @@ Languages
 ---
 Clean code. Solid logic. Continuous improvement.
 
-“La calidad del software no es negociable.”
+"Internal quality is not negotiable."
+
 Martin Fowler
 
